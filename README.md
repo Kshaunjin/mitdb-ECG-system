@@ -1,6 +1,7 @@
 # mitdb-ECG-system
 Mitdb ECG系統
-
+https://github.com/enter3935/mitdb-ECG-system/blob/master/p1.png
+ ![image](https://github.com/enter3935/mitdb-ECG-system/blob/master/p1.png)
 系統組成: 
 連結資料庫函式: DB_class.php
 連結資料庫設定: DB_config.php
